@@ -1,0 +1,30 @@
+<departments>
+  <department dept="d001" count="15">
+    <period tstart="1986-01-16" tend="1987-07-25" count="1" emp="1" length="555"/>
+  </department>
+  <department dept="d002" count="30">
+    <period tstart="1985-10-14" tend="1987-12-18" count="1" emp="1" length="795"/>
+  </department>
+  <department dept="d003" count="25">
+    <period tstart="1986-08-22" tend="1987-09-21" count="2" emp="2" length="394"/>
+  </department>
+  <department dept="d004" count="118">
+    <period tstart="1986-01-20" tend="1986-05-12" count="8" emp="8" length="112"/>
+  </department>
+  <department dept="d005" count="131">
+    <period tstart="1987-04-03" tend="1987-07-25" count="17" emp="17" length="114"/>
+    <period tstart="1992-02-02" tend="1992-05-24" count="55" emp="55" length="114"/>
+  </department>
+  <department dept="d006" count="30">
+    <period tstart="1989-05-17" tend="1990-11-18" count="9" emp="9" length="549"/>
+  </department>
+  <department dept="d007" count="90">
+    <period tstart="1986-10-29" tend="1987-03-28" count="11" emp="11" length="150"/>
+  </department>
+  <department dept="d008" count="33">
+    <period tstart="1985-11-20" tend="1986-11-20" count="1" emp="1" length="365"/>
+  </department>
+  <department dept="d009" count="28">
+    <period tstart="2002-02-22" tend="9999-12-31" count="22" emp="22" length="2921159"/>
+  </department>
+</departments>

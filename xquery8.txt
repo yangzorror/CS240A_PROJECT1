@@ -1,0 +1,35 @@
+xquery version "1.0";
+
+declare variable $counts := doc( "v-counts.xml" )/company/count;
+
+declare variable $dates := ( 
+	xs:date($counts[1]/@tstart), 
+
+	for $count at $pos in $counts
+		let $prev := xs:integer($counts[$pos - 1])
+		where $pos>2 and $prev>xs:integer($count)
+(:		let $prev_count := $counts[$pos] :)
+		return  xs:date($count/@tstart),
+
+	myfn:uc2now($counts[ count($counts) ]/@tend)
+);
+
+declare variable $risings := ( 
+		for $tend at $pos in $dates
+			let $tstart := $dates[$pos - 1]
+			where $pos > 1
+			return
+				<rising tstart="{$tstart}" tend="{$tend}">
+					<duration>{$tend - $tstart}</duration>
+					<min>{string($counts[@tstart=$tstart])}</min>
+					<max>{string($counts[@tend=$tend])}</max>
+				</rising>
+);
+
+<company>
+{
+	for $rising in $risings
+		where $rising/min<$rising/max
+		return $rising
+}
+</company>

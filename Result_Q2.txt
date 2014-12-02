@@ -1,0 +1,255 @@
+<result name="Chirstian Koblick" department="Production">
+  <salary tend="1991-11-30" tstart="1990-11-30">48271</salary>
+</result>
+<result name="Anneke Preusig" department="Development">
+  <salary tend="1991-08-05" tstart="1990-08-05">40000</salary>
+</result>
+<result name="Mary Sluis" department="Cuustomer Service">
+  <salary tend="1991-01-22" tstart="1990-01-22">42365</salary>
+</result>
+<result name="Eberhardt Terkki" department="Human Resources">
+  <salary tend="1991-10-19" tstart="1990-10-19">46305</salary>
+</result>
+<result name="Prasadram Heyers" department="Development">
+  <salary tend="1991-08-16" tstart="1990-08-16">50120</salary>
+</result>
+<result name="Jeong Reistad" department="Production">
+  <salary tend="1991-06-20" tstart="1990-06-20">48426</salary>
+</result>
+<result name="Alain Chappelet" department="Production">
+  <salary tend="1991-09-05" tstart="1990-09-05">45629</salary>
+</result>
+<result name="Pradeep Makrucki" department="Development">
+  <salary tend="1991-12-05" tstart="1990-12-05">40000</salary>
+</result>
+<result name="Huan Lortz" department="Cuustomer Service">
+  <salary tend="1991-09-20" tstart="1990-09-20">43527</salary>
+</result>
+<result name="Alejandro Brender" department="Human Resources">
+  <salary tend="1991-01-18" tstart="1990-01-18">43801</salary>
+</result>
+<result name="Yishay Tzvieli" department="Development">
+  <salary tend="1991-10-20" tstart="1990-10-20">49324</salary>
+</result>
+<result name="Brendon Bernini" department="Development">
+  <salary tend="1991-02-01" tstart="1990-02-01">48857</salary>
+</result>
+<result name="Gino Leonhardt" department="Production">
+  <salary tend="1991-04-08" tstart="1990-04-08">41990</salary>
+</result>
+<result name="Udi Jansch" department="Research">
+  <salary tend="1991-11-19" tstart="1990-11-19">45895</salary>
+</result>
+<result name="Claudi Stavenow" department="Quality Management">
+  <salary tend="1991-03-03" tstart="1990-03-03">51396</salary>
+</result>
+<result name="Hironoby Sidou" department="Development">
+  <salary tend="1991-05-21" tstart="1990-05-21">39567</salary>
+</result>
+<result name="Gao Dolinsky" department="Development">
+  <salary tend="1991-05-17" tstart="1990-05-17">46087</salary>
+</result>
+<result name="Vishv Zockler" department="Production">
+  <salary tend="1991-03-30" tstart="1990-03-30">49732</salary>
+</result>
+<result name="Remzi Waschkowski" department="Research">
+  <salary tend="1991-09-15" tstart="1990-09-15">44886</salary>
+</result>
+<result name="Sreekrishna Servieres" department="Cuustomer Service">
+  <salary tend="1991-05-12" tstart="1990-05-12">51404</salary>
+</result>
+<result name="Xinyu Warwick" department="Research">
+  <salary tend="1991-04-15" tstart="1990-04-15">51370</salary>
+</result>
+<result name="Hugo Rosis" department="Quality Management">
+  <salary tend="1991-12-19" tstart="1990-12-19">45119</salary>
+</result>
+<result name="Chikara Rissland" department="Cuustomer Service">
+  <salary tend="1991-03-03" tstart="1990-03-03">43830</salary>
+</result>
+<result name="Guoxiang Ramsay" department="Development">
+  <salary tend="1991-05-03" tstart="1990-05-03">44986</salary>
+</result>
+<result name="Kayoko Valtorta" department="Cuustomer Service">
+  <salary tend="1991-09-07" tstart="1990-09-07">50043</salary>
+</result>
+<result name="Babette Lamba" department="Cuustomer Service">
+  <salary tend="1991-06-06" tstart="1990-06-06">42211</salary>
+</result>
+<result name="Nishit Casperson" department="Production">
+  <salary tend="1991-06-21" tstart="1990-06-21">43665</salary>
+</result>
+<result name="Giri Isaak" department="Production">
+  <salary tend="1991-12-14" tstart="1990-12-14">50257</salary>
+</result>
+<result name="Diederik Siprelle" department="Development">
+  <salary tend="1991-12-11" tstart="1990-12-11">49482</salary>
+</result>
+<result name="Nathan Monkewich" department="Production">
+  <salary tend="1992-01-04" tstart="1991-01-04">42228</salary>
+</result>
+<result name="Maren Hutton" department="Cuustomer Service">
+  <salary tend="1991-02-17" tstart="1990-02-17">47168</salary>
+</result>
+<result name="Sakthirel Bakhtari" department="Development">
+  <salary tend="1991-09-30" tstart="1990-09-30">45316</salary>
+</result>
+<result name="Kazuhito Encarnacion" department="Finance">
+  <salary tend="1991-12-17" tstart="1990-12-17">47705</salary>
+</result>
+<result name="Adas Nastansky" department="Production">
+  <salary tend="1992-01-05" tstart="1991-01-05">42629</salary>
+</result>
+<result name="Khedija Mitsuhashi" department="Production">
+  <salary tend="1991-06-03" tstart="1990-06-03">46501</salary>
+</result>
+<result name="Miyeon Macedo" department="Finance">
+  <salary tend="1991-05-17" tstart="1990-05-17">49202</salary>
+</result>
+<result name="Sibyl Nooteboom" department="Development">
+  <salary tend="1991-06-22" tstart="1990-06-22">48204</salary>
+</result>
+<result name="Moriyoshi Merey" department="Development">
+  <salary tend="1991-09-02" tstart="1990-09-02">40380</salary>
+</result>
+<result name="Arve Fairtlough" department="Production">
+  <salary tend="1991-06-22" tstart="1990-06-22">49818</salary>
+</result>
+<result name="Zdislav Nastansky" department="Development">
+  <salary tend="1991-04-09" tstart="1990-04-09">46340</salary>
+</result>
+<result name="Mohua Falck" department="Quality Management">
+  <salary tend="1991-06-13" tstart="1990-06-13">46246</salary>
+</result>
+<result name="Steen Escriba" department="Research">
+  <salary tend="1991-04-05" tstart="1990-04-06">41221</salary>
+</result>
+<result name="Alassane Iwayama" department="Development">
+  <salary tend="1991-04-19" tstart="1990-04-19">46265</salary>
+</result>
+<result name="Amstein Ghemri" department="Research">
+  <salary tend="1991-10-29" tstart="1990-10-29">45129</salary>
+</result>
+<result name="Yongmin Roison" department="Production">
+  <salary tend="1991-05-11" tstart="1990-05-11">50971</salary>
+</result>
+<result name="Tze Nourani" department="Production">
+  <salary tend="1991-06-07" tstart="1990-06-07">48289</salary>
+</result>
+<result name="Leon Trogemann" department="Production">
+  <salary tend="1991-01-08" tstart="1990-01-08">43514</salary>
+</result>
+<result name="Ortrud Murillo" department="Finance">
+  <salary tend="1991-06-12" tstart="1990-06-12">42503</salary>
+</result>
+<result name="Lunjin Ozeri" department="Production">
+  <salary tend="1991-01-17" tstart="1990-01-17">44392</salary>
+</result>
+<result name="Shirish Wegerle" department="Production">
+  <salary tend="1991-11-08" tstart="1990-11-08">40000</salary>
+</result>
+<result name="Sukumar Rassart" department="Production">
+  <salary tend="1991-05-25" tstart="1990-05-25">47093</salary>
+</result>
+<result name="Taizo Oxman" department="Production">
+  <salary tend="1991-07-24" tstart="1990-07-24">45637</salary>
+</result>
+<result name="Marek Luck" department="Development">
+  <salary tend="1991-09-07" tstart="1990-09-07">42475</salary>
+</result>
+<result name="Xuejun Hempstead" department="Development">
+  <salary tend="1991-10-18" tstart="1990-10-18">47841</salary>
+</result>
+<result name="Kauko Birjandi" department="Development">
+  <salary tend="1991-05-25" tstart="1990-05-25">47995</salary>
+</result>
+<result name="Lucien Staudhammer" department="Finance">
+  <salary tend="1991-05-23" tstart="1990-05-23">44804</salary>
+</result>
+<result name="Marlo Zschoche" department="Production">
+  <salary tend="1991-02-05" tstart="1990-02-05">40000</salary>
+</result>
+<result name="Aksel Alencar" department="Production">
+  <salary tend="1991-10-24" tstart="1990-10-24">42894</salary>
+</result>
+<result name="Isamu Dahlbom" department="Development">
+  <salary tend="1991-01-29" tstart="1990-01-29">41968</salary>
+</result>
+<result name="Arunachalam Badr" department="Human Resources">
+  <salary tend="1991-09-20" tstart="1990-09-20">44325</salary>
+</result>
+<result name="Teunis Liedekerke" department="Production">
+  <salary tend="1991-11-30" tstart="1990-11-30">41319</salary>
+</result>
+<result name="Wilmer Greenaway" department="Production">
+  <salary tend="1991-04-28" tstart="1990-04-28">44687</salary>
+</result>
+<result name="Stella Hiroyama" department="Development">
+  <salary tend="1991-07-24" tstart="1990-07-24">41615</salary>
+</result>
+<result name="Shalesh dAstous" department="Human Resources">
+  <salary tend="1991-11-02" tstart="1990-11-02">40000</salary>
+</result>
+<result name="Toshiki Muniz" department="Quality Management">
+  <salary tend="1991-09-10" tstart="1990-09-10">46746</salary>
+</result>
+<result name="Rosine Granlund" department="Research">
+  <salary tend="1991-10-21" tstart="1990-10-21">51141</salary>
+</result>
+<result name="Fai Bale" department="Production">
+  <salary tend="1991-12-08" tstart="1990-12-08">42634</salary>
+</result>
+<result name="Feiyu Luft" department="Marketing">
+  <salary tend="1991-01-15" tstart="1990-01-15">51243</salary>
+</result>
+<result name="Wanqing Bratten" department="Quality Management">
+  <salary tend="1991-05-17" tstart="1990-05-17">43730</salary>
+</result>
+<result name="Yagil DasSarma" department="Production">
+  <salary tend="1991-06-23" tstart="1990-06-23">42231</salary>
+</result>
+<result name="Sibyl Rahier" department="Development">
+  <salary tend="1991-01-10" tstart="1990-01-10">48895</salary>
+</result>
+<result name="Yinlin Alpin" department="Development">
+  <salary tend="1991-05-30" tstart="1990-05-30">43255</salary>
+</result>
+<result name="Divine Marzano" department="Cuustomer Service">
+  <salary tend="1991-04-06" tstart="1990-04-07">40000</salary>
+</result>
+<result name="Babette Straney" department="Development">
+  <salary tend="1991-08-07" tstart="1990-08-07">49666</salary>
+</result>
+<result name="Martien Improta" department="Development">
+  <salary tend="1991-09-23" tstart="1990-09-23">45557</salary>
+</result>
+<result name="Hisao Tiemann" department="Cuustomer Service">
+  <salary tend="1991-08-13" tstart="1990-08-13">40000</salary>
+</result>
+<result name="Yahiko Lammel" department="Human Resources">
+  <salary tend="1991-01-29" tstart="1990-01-29">47326</salary>
+</result>
+<result name="Evgueni Srimani" department="Production">
+  <salary tend="1991-01-19" tstart="1990-01-19">40000</salary>
+</result>
+<result name="Adel Perfilyeva" department="Production">
+  <salary tend="1991-07-12" tstart="1990-07-12">44799</salary>
+</result>
+<result name="Ronghao Yavatkar" department="Quality Management">
+  <salary tend="1991-12-29" tstart="1990-12-29">41561</salary>
+</result>
+<result name="Bodh Ranta" department="Production">
+  <salary tend="1991-03-12" tstart="1990-03-12">49382</salary>
+</result>
+<result name="Tsvetan Matzel" department="Cuustomer Service">
+  <salary tend="1991-04-01" tstart="1990-04-01">47023</salary>
+</result>
+<result name="Peternela Iwayama" department="Production">
+  <salary tend="1991-09-19" tstart="1990-09-19">50523</salary>
+</result>
+<result name="Kenton Garnham" department="Production">
+  <salary tend="1991-02-20" tstart="1990-02-20">49556</salary>
+</result>
+<result name="Yongmao Pintelas" department="Production">
+  <salary tend="1991-10-03" tstart="1990-10-03">41161</salary>
+</result>

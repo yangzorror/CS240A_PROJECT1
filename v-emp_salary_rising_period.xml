@@ -1,0 +1,1840 @@
+<departments>
+  <department deptno="d001">
+    <emp empno="10017">
+      <period start="1993-08-03" end="9999-12-31"/>
+    </emp>
+    <emp empno="10055">
+      <period start="1992-04-27" end="1995-07-22"/>
+    </emp>
+    <emp empno="10058">
+      <period start="1988-04-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10140">
+      <period start="1991-03-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10175">
+      <period start="1988-09-24" end="1989-09-24"/>
+      <period start="1989-09-24" end="1995-05-24"/>
+    </emp>
+    <emp empno="10208">
+      <period start="1995-02-05" end="1999-05-15"/>
+    </emp>
+    <emp empno="10239">
+      <period start="1996-05-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10259">
+      <period start="1987-07-25" end="1994-07-23"/>
+      <period start="1994-07-23" end="1999-01-06"/>
+    </emp>
+    <emp empno="10340">
+      <period start="1988-03-30" end="1997-03-28"/>
+      <period start="1997-03-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10353">
+      <period start="1989-08-24" end="2001-08-21"/>
+    </emp>
+    <emp empno="10367">
+      <period start="1991-06-24" end="1993-06-23"/>
+      <period start="1993-06-23" end="2001-06-21"/>
+    </emp>
+    <emp empno="10384">
+      <period start="1986-01-16" end="1994-01-14"/>
+      <period start="1994-01-14" end="1998-01-13"/>
+      <period start="1998-01-13" end="9999-12-31"/>
+    </emp>
+    <emp empno="10418">
+      <period start="1996-10-04" end="1997-10-04"/>
+      <period start="1997-10-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10491">
+      <period start="1990-01-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10499">
+      <period start="1996-07-31" end="2000-07-30"/>
+      <period start="2000-07-30" end="9999-12-31"/>
+    </emp>
+  </department>
+  <department deptno="d002">
+    <emp empno="10042">
+      <period start="1993-03-21" end="2000-03-19"/>
+    </emp>
+    <emp empno="10050">
+      <period start="1990-12-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10059">
+      <period start="1991-06-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10080">
+      <period start="1994-09-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10132">
+      <period start="1997-06-18" end="1998-06-18"/>
+      <period start="1998-06-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10144">
+      <period start="1985-10-14" end="1993-08-10"/>
+    </emp>
+    <emp empno="10146">
+      <period start="1988-06-28" end="1990-09-07"/>
+    </emp>
+    <emp empno="10147">
+      <period start="1987-12-18" end="1996-12-15"/>
+      <period start="1996-12-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10165">
+      <period start="1988-05-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10173">
+      <period start="1992-03-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10177">
+      <period start="1993-02-06" end="1994-03-17"/>
+    </emp>
+    <emp empno="10180">
+      <period start="1994-07-01" end="2001-06-29"/>
+    </emp>
+    <emp empno="10186">
+      <period start="1996-12-25" end="1997-08-16"/>
+    </emp>
+    <emp empno="10187">
+      <period start="1991-06-01" end="1992-05-31"/>
+      <period start="1992-05-31" end="1997-05-30"/>
+      <period start="1998-05-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10194">
+      <period start="1997-02-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10196">
+      <period start="1999-01-31" end="9999-12-31"/>
+    </emp>
+    <emp empno="10209">
+      <period start="1991-11-23" end="1996-11-21"/>
+      <period start="1996-11-21" end="1998-11-21"/>
+      <period start="1998-11-21" end="2001-11-20"/>
+    </emp>
+    <emp empno="10220">
+      <period start="1997-09-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10241">
+      <period start="1988-06-12" end="1999-06-10"/>
+      <period start="1999-06-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10263">
+      <period start="1996-12-21" end="2001-12-20"/>
+    </emp>
+    <emp empno="10272">
+      <period start="1997-10-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10295">
+      <period start="1995-06-19" end="2001-06-17"/>
+    </emp>
+    <emp empno="10301">
+      <period start="1988-05-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10351">
+      <period start="1995-05-01" end="1997-04-30"/>
+      <period start="1999-04-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10354">
+      <period start="1999-03-03" end="2001-03-02"/>
+    </emp>
+    <emp empno="10403">
+      <period start="1991-09-13" end="2001-06-15"/>
+    </emp>
+    <emp empno="10416">
+      <period start="1989-03-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10456">
+      <period start="2000-01-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10480">
+      <period start="1988-05-18" end="1989-06-03"/>
+    </emp>
+    <emp empno="10496">
+      <period start="1995-08-29" end="1999-01-26"/>
+    </emp>
+  </department>
+  <department deptno="d003">
+    <emp empno="10005">
+      <period start="1989-09-12" end="1993-09-11"/>
+      <period start="1993-09-11" end="1996-09-10"/>
+      <period start="1996-09-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10013">
+      <period start="1985-10-20" end="1987-10-20"/>
+      <period start="1988-10-19" end="1993-10-18"/>
+      <period start="1993-10-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10036">
+      <period start="1992-04-28" end="1998-04-27"/>
+      <period start="1998-04-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10039">
+      <period start="1988-01-19" end="1992-01-18"/>
+      <period start="1992-01-18" end="1996-01-17"/>
+      <period start="1996-01-17" end="2000-01-16"/>
+      <period start="2000-01-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10054">
+      <period start="1995-07-29" end="1997-07-28"/>
+      <period start="1997-07-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10071">
+      <period start="1995-08-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10077">
+      <period start="1994-12-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10086">
+      <period start="1992-02-19" end="1993-02-18"/>
+      <period start="1996-02-18" end="2002-02-16"/>
+    </emp>
+    <emp empno="10100">
+      <period start="1987-09-21" end="1991-09-20"/>
+      <period start="1991-09-20" end="1998-09-18"/>
+      <period start="1998-09-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10105">
+      <period start="1999-05-17" end="2001-05-16"/>
+    </emp>
+    <emp empno="10108">
+      <period start="1999-03-20" end="2001-10-20"/>
+    </emp>
+    <emp empno="10110">
+      <period start="1986-08-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10163">
+      <period start="1992-02-02" end="1994-02-01"/>
+      <period start="1994-02-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10233">
+      <period start="1994-04-29" end="1999-04-28"/>
+      <period start="1999-04-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10280">
+      <period start="1995-01-27" end="2002-01-25"/>
+    </emp>
+    <emp empno="10325">
+      <period start="1990-09-20" end="1994-09-19"/>
+      <period start="1994-09-19" end="2001-09-17"/>
+    </emp>
+    <emp empno="10360">
+      <period start="1996-09-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10362">
+      <period start="1990-11-02" end="1994-11-01"/>
+      <period start="1994-11-01" end="1997-07-16"/>
+    </emp>
+    <emp empno="10413">
+      <period start="1991-12-27" end="1992-12-26"/>
+      <period start="1992-12-26" end="1999-12-25"/>
+      <period start="1999-12-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10428">
+      <period start="1992-06-04" end="2001-06-02"/>
+      <period start="2001-06-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10436">
+      <period start="1988-01-30" end="2001-01-26"/>
+      <period start="2001-01-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10459">
+      <period start="1997-06-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10464">
+      <period start="1991-05-21" end="1992-05-20"/>
+      <period start="1992-05-20" end="9999-12-31"/>
+    </emp>
+    <emp empno="10467">
+      <period start="1992-05-22" end="1999-11-01"/>
+    </emp>
+    <emp empno="10484">
+      <period start="1996-12-20" end="9999-12-31"/>
+    </emp>
+  </department>
+  <department deptno="d004">
+    <emp empno="10003">
+      <period start="1995-12-03" end="1997-12-02"/>
+      <period start="1997-12-02" end="1999-12-02"/>
+      <period start="1999-12-02" end="2001-12-01"/>
+    </emp>
+    <emp empno="10004">
+      <period start="1986-12-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10010">
+      <period start="1996-11-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10020">
+      <period start="1997-12-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10024">
+      <period start="1998-06-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10026">
+      <period start="1995-03-20" end="9999-12-31"/>
+    </emp>
+    <emp empno="10029">
+      <period start="1991-09-18" end="1995-09-17"/>
+      <period start="1995-09-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10030">
+      <period start="1994-02-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10032">
+      <period start="1990-06-20" end="1995-06-19"/>
+      <period start="1995-06-19" end="1999-06-18"/>
+      <period start="1999-06-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10035">
+      <period start="1988-09-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10044">
+      <period start="1994-05-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10045">
+      <period start="1996-11-16" end="2001-11-15"/>
+    </emp>
+    <emp empno="10047">
+      <period start="1989-03-31" end="9999-12-31"/>
+    </emp>
+    <emp empno="10051">
+      <period start="1992-10-15" end="1997-10-14"/>
+      <period start="1997-10-14" end="1999-10-14"/>
+      <period start="1999-10-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10063">
+      <period start="1989-04-08" end="9999-12-31"/>
+    </emp>
+    <emp empno="10069">
+      <period start="1992-06-14" end="1994-06-14"/>
+      <period start="1994-06-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10081">
+      <period start="1986-10-30" end="1988-10-29"/>
+      <period start="1988-10-29" end="1992-10-28"/>
+      <period start="1992-10-28" end="1994-10-28"/>
+      <period start="1994-10-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10083">
+      <period start="1987-03-31" end="9999-12-31"/>
+    </emp>
+    <emp empno="10084">
+      <period start="1995-12-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10085">
+      <period start="1994-04-09" end="9999-12-31"/>
+    </emp>
+    <emp empno="10096">
+      <period start="1999-01-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10098">
+      <period start="1985-05-13" end="1992-12-11"/>
+    </emp>
+    <emp empno="10102">
+      <period start="1995-01-02" end="1996-01-02"/>
+      <period start="1997-01-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10106">
+      <period start="1991-10-27" end="1997-10-25"/>
+      <period start="1997-10-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10109">
+      <period start="1993-06-16" end="2001-06-14"/>
+      <period start="2001-06-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10113">
+      <period start="1998-09-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10117">
+      <period start="1992-03-19" end="9999-12-31"/>
+    </emp>
+    <emp empno="10119">
+      <period start="1993-12-09" end="1994-12-09"/>
+      <period start="1994-12-09" end="1997-10-30"/>
+    </emp>
+    <emp empno="10120">
+      <period start="1996-07-06" end="2002-07-05"/>
+    </emp>
+    <emp empno="10123">
+      <period start="1993-01-15" end="1997-01-14"/>
+      <period start="1997-01-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10124">
+      <period start="1991-09-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10130">
+      <period start="1988-06-21" end="1997-06-19"/>
+      <period start="1997-06-19" end="9999-12-31"/>
+    </emp>
+    <emp empno="10131">
+      <period start="1999-09-17" end="1999-12-06"/>
+    </emp>
+    <emp empno="10133">
+      <period start="1985-12-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10135">
+      <period start="1990-01-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10158">
+      <period start="1987-06-04" end="1991-06-03"/>
+      <period start="1991-06-03" end="1995-06-02"/>
+      <period start="1995-06-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10161">
+      <period start="1991-06-09" end="1994-01-05"/>
+    </emp>
+    <emp empno="10162">
+      <period start="1998-05-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10164">
+      <period start="1990-10-19" end="1995-10-18"/>
+      <period start="1995-10-18" end="1997-10-17"/>
+      <period start="1997-10-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10167">
+      <period start="1992-04-04" end="1998-04-03"/>
+      <period start="1998-04-03" end="2002-04-02"/>
+    </emp>
+    <emp empno="10170">
+      <period start="1986-01-02" end="1989-02-06"/>
+    </emp>
+    <emp empno="10171">
+      <period start="1996-08-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10174">
+      <period start="1987-06-01" end="1998-05-29"/>
+      <period start="1998-05-29" end="9999-12-31"/>
+    </emp>
+    <emp empno="10188">
+      <period start="1987-08-27" end="1991-08-26"/>
+      <period start="1991-08-26" end="2000-08-23"/>
+      <period start="2000-08-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10190">
+      <period start="1986-06-23" end="1995-06-21"/>
+      <period start="1995-06-21" end="2000-06-19"/>
+      <period start="2000-06-19" end="9999-12-31"/>
+    </emp>
+    <emp empno="10195">
+      <period start="1985-02-15" end="2001-04-14"/>
+    </emp>
+    <emp empno="10200">
+      <period start="1994-02-17" end="2002-02-15"/>
+    </emp>
+    <emp empno="10205">
+      <period start="1993-08-23" end="1997-08-22"/>
+      <period start="1997-08-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10217">
+      <period start="1986-05-12" end="1990-05-11"/>
+      <period start="1990-05-11" end="1993-08-05"/>
+    </emp>
+    <emp empno="10218">
+      <period start="1997-01-31" end="2001-01-30"/>
+      <period start="2001-01-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10221">
+      <period start="1988-06-08" end="1990-06-08"/>
+      <period start="1990-06-08" end="1995-06-07"/>
+      <period start="1995-06-07" end="1997-06-06"/>
+      <period start="1997-06-06" end="2000-10-04"/>
+    </emp>
+    <emp empno="10222">
+      <period start="1986-06-08" end="1987-06-08"/>
+      <period start="1987-06-08" end="1992-06-06"/>
+      <period start="1992-06-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10224">
+      <period start="1988-01-09" end="1993-01-07"/>
+      <period start="1993-01-07" end="9999-12-31"/>
+    </emp>
+    <emp empno="10235">
+      <period start="1995-04-06" end="1999-04-05"/>
+      <period start="1999-04-05" end="2002-04-03"/>
+    </emp>
+    <emp empno="10242">
+      <period start="1988-01-18" end="2001-01-14"/>
+      <period start="2001-01-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10246">
+      <period start="1991-02-01" end="1992-02-01"/>
+      <period start="1992-02-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10247">
+      <period start="1992-08-14" end="1997-08-13"/>
+      <period start="1997-08-13" end="9999-12-31"/>
+    </emp>
+    <emp empno="10252">
+      <period start="1990-11-08" end="1993-11-07"/>
+      <period start="1993-11-07" end="1998-11-06"/>
+      <period start="1998-11-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10255">
+      <period start="1993-05-12" end="1995-05-12"/>
+      <period start="1995-05-12" end="1999-11-14"/>
+    </emp>
+    <emp empno="10257">
+      <period start="1997-07-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10260">
+      <period start="1993-02-01" end="1997-01-31"/>
+      <period start="1997-01-31" end="2001-01-30"/>
+      <period start="2001-01-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10266">
+      <period start="1990-05-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10267">
+      <period start="1997-04-26" end="1998-04-26"/>
+      <period start="1999-04-26" end="2001-04-25"/>
+      <period start="2001-04-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10269">
+      <period start="1988-07-24" end="1993-07-23"/>
+      <period start="1993-07-23" end="1998-07-22"/>
+      <period start="1998-07-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10279">
+      <period start="1995-04-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10282">
+      <period start="1996-05-02" end="1997-05-02"/>
+      <period start="1998-05-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10284">
+      <period start="1999-07-06" end="2000-07-05"/>
+      <period start="2000-07-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10288">
+      <period start="1994-08-29" end="2000-08-27"/>
+      <period start="2000-08-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10293">
+      <period start="1992-12-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10297">
+      <period start="1986-05-28" end="1997-05-25"/>
+      <period start="1997-05-25" end="2000-05-24"/>
+      <period start="2000-05-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10300">
+      <period start="1991-05-17" end="1998-05-15"/>
+      <period start="1998-05-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10303">
+      <period start="1990-02-05" end="2000-11-15"/>
+    </emp>
+    <emp empno="10307">
+      <period start="1999-10-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10310">
+      <period start="1990-10-24" end="1991-10-24"/>
+      <period start="1991-10-24" end="2001-07-26"/>
+    </emp>
+    <emp empno="10312">
+      <period start="1986-08-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10323">
+      <period start="1991-06-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10329">
+      <period start="1986-01-20" end="9999-12-31"/>
+    </emp>
+    <emp empno="10332">
+      <period start="1988-10-20" end="1992-10-19"/>
+      <period start="1992-10-19" end="1997-03-07"/>
+    </emp>
+    <emp empno="10337">
+      <period start="1998-04-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10339">
+      <period start="1989-11-30" end="1992-11-29"/>
+      <period start="1992-11-29" end="9999-12-31"/>
+    </emp>
+    <emp empno="10341">
+      <period start="1987-04-29" end="1998-11-11"/>
+    </emp>
+    <emp empno="10344">
+      <period start="1999-04-19" end="9999-12-31"/>
+    </emp>
+    <emp empno="10348">
+      <period start="1995-10-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10350">
+      <period start="1991-05-11" end="1998-01-16"/>
+    </emp>
+    <emp empno="10363">
+      <period start="1985-09-11" end="1990-09-10"/>
+      <period start="1990-09-10" end="1993-02-12"/>
+    </emp>
+    <emp empno="10364">
+      <period start="1985-11-14" end="1991-11-13"/>
+      <period start="1991-11-13" end="1999-11-11"/>
+      <period start="1999-11-11" end="9999-12-31"/>
+    </emp>
+    <emp empno="10368">
+      <period start="1996-05-16" end="2002-05-15"/>
+    </emp>
+    <emp empno="10371">
+      <period start="1989-11-28" end="1992-11-27"/>
+      <period start="1992-11-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10372">
+      <period start="1985-07-30" end="1996-07-27"/>
+      <period start="1996-07-27" end="2000-07-26"/>
+      <period start="2000-07-26" end="2002-07-26"/>
+    </emp>
+    <emp empno="10376">
+      <period start="1990-12-08" end="1997-12-06"/>
+      <period start="1997-12-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10377">
+      <period start="1996-08-24" end="1999-08-24"/>
+      <period start="1999-08-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10381">
+      <period start="1991-12-04" end="1992-12-03"/>
+      <period start="1992-12-03" end="2000-12-01"/>
+    </emp>
+    <emp empno="10382">
+      <period start="1998-07-01" end="2000-10-27"/>
+    </emp>
+    <emp empno="10383">
+      <period start="1991-06-19" end="1992-06-18"/>
+      <period start="1992-06-18" end="1999-06-17"/>
+      <period start="1999-06-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10385">
+      <period start="1992-12-20" end="1994-12-20"/>
+      <period start="1994-12-20" end="1996-12-19"/>
+      <period start="1996-12-19" end="1998-01-23"/>
+    </emp>
+    <emp empno="10392">
+      <period start="1992-03-01" end="2000-02-28"/>
+      <period start="2000-02-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10393">
+      <period start="1989-06-23" end="1994-06-22"/>
+      <period start="1994-06-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10397">
+      <period start="1993-05-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10412">
+      <period start="1991-11-21" end="1999-11-19"/>
+      <period start="1999-11-19" end="9999-12-31"/>
+    </emp>
+    <emp empno="10422">
+      <period start="1995-01-03" end="9999-12-31"/>
+    </emp>
+    <emp empno="10425">
+      <period start="1995-05-07" end="2002-05-06"/>
+    </emp>
+    <emp empno="10430">
+      <period start="1998-07-05" end="1999-07-05"/>
+      <period start="1999-07-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10434">
+      <period start="1995-06-27" end="2002-06-22"/>
+    </emp>
+    <emp empno="10438">
+      <period start="1990-01-19" end="9999-12-31"/>
+    </emp>
+    <emp empno="10441">
+      <period start="1988-07-12" end="2000-07-09"/>
+      <period start="2001-07-09" end="9999-12-31"/>
+    </emp>
+    <emp empno="10451">
+      <period start="1988-03-12" end="1990-03-12"/>
+      <period start="1990-03-12" end="1999-03-10"/>
+      <period start="1999-03-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10462">
+      <period start="1996-03-25" end="1997-03-25"/>
+      <period start="1997-03-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10470">
+      <period start="1989-09-19" end="1993-09-18"/>
+      <period start="1994-09-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10473">
+      <period start="1997-09-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10474">
+      <period start="1987-02-21" end="1990-02-20"/>
+      <period start="1990-02-20" end="2001-02-17"/>
+      <period start="2001-02-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10475">
+      <period start="1992-05-13" end="1994-12-30"/>
+    </emp>
+    <emp empno="10479">
+      <period start="1993-07-24" end="1997-07-23"/>
+      <period start="1997-07-23" end="2001-07-22"/>
+      <period start="2001-07-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10481">
+      <period start="1989-10-03" end="1999-10-01"/>
+      <period start="1999-10-01" end="2001-09-30"/>
+    </emp>
+    <emp empno="10487">
+      <period start="1992-08-14" end="1994-08-14"/>
+      <period start="1994-08-14" end="2000-08-12"/>
+      <period start="2000-08-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10494">
+      <period start="1991-12-18" end="1998-12-16"/>
+      <period start="2000-12-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10495">
+      <period start="1989-09-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10497">
+      <period start="1992-01-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10498">
+      <period start="1994-03-09" end="9999-12-31"/>
+    </emp>
+  </department>
+  <department deptno="d005">
+    <emp empno="10001">
+      <period start="1986-06-26" end="2001-06-22"/>
+      <period start="2001-06-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10006">
+      <period start="1990-08-05" end="2001-08-02"/>
+    </emp>
+    <emp empno="10008">
+      <period start="1998-03-11" end="2000-07-31"/>
+    </emp>
+    <emp empno="10012">
+      <period start="1992-12-18" end="2001-12-16"/>
+    </emp>
+    <emp empno="10014">
+      <period start="1993-12-29" end="1995-12-29"/>
+      <period start="1995-12-29" end="9999-12-31"/>
+    </emp>
+    <emp empno="10018">
+      <period start="1987-04-03" end="1991-04-02"/>
+      <period start="1991-04-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10021">
+      <period start="1988-02-10" end="1993-02-08"/>
+      <period start="1993-02-08" end="1999-02-07"/>
+      <period start="1999-02-07" end="2002-07-15"/>
+    </emp>
+    <emp empno="10022">
+      <period start="1999-09-03" end="2000-09-02"/>
+      <period start="2000-09-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10023">
+      <period start="1999-09-27" end="2001-09-26"/>
+    </emp>
+    <emp empno="10025">
+      <period start="1987-08-17" end="1993-08-15"/>
+      <period start="1993-08-15" end="1996-08-14"/>
+      <period start="1996-08-14" end="1997-10-15"/>
+    </emp>
+    <emp empno="10027">
+      <period start="1995-04-02" end="1996-04-01"/>
+      <period start="1996-04-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10028">
+      <period start="1991-10-22" end="1998-04-06"/>
+    </emp>
+    <emp empno="10031">
+      <period start="1991-09-01" end="2000-08-29"/>
+      <period start="2000-08-29" end="9999-12-31"/>
+    </emp>
+    <emp empno="10037">
+      <period start="1990-12-05" end="1991-12-05"/>
+      <period start="1991-12-05" end="1993-12-04"/>
+      <period start="1993-12-04" end="2001-12-02"/>
+    </emp>
+    <emp empno="10040">
+      <period start="1993-02-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10043">
+      <period start="1990-10-20" end="1996-10-18"/>
+      <period start="1996-10-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10048">
+      <period start="1985-02-24" end="1986-02-24"/>
+    </emp>
+    <emp empno="10056">
+      <period start="1990-02-01" end="2000-01-30"/>
+      <period start="2000-01-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10057">
+      <period start="1992-01-15" end="1999-01-13"/>
+      <period start="1999-01-13" end="9999-12-31"/>
+    </emp>
+    <emp empno="10062">
+      <period start="1991-08-30" end="1995-08-29"/>
+      <period start="1995-08-29" end="2001-08-27"/>
+    </emp>
+    <emp empno="10065">
+      <period start="1998-05-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10066">
+      <period start="1986-02-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10070">
+      <period start="1985-10-14" end="1998-10-11"/>
+      <period start="1998-10-11" end="9999-12-31"/>
+    </emp>
+    <emp empno="10072">
+      <period start="1989-05-21" end="1990-05-21"/>
+      <period start="1990-05-21" end="2002-05-18"/>
+    </emp>
+    <emp empno="10074">
+      <period start="1990-08-13" end="1992-08-12"/>
+      <period start="1992-08-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10075">
+      <period start="1988-05-17" end="1989-05-17"/>
+      <period start="1989-05-17" end="1996-05-15"/>
+      <period start="1996-05-15" end="2001-01-15"/>
+    </emp>
+    <emp empno="10076">
+      <period start="1996-07-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10078">
+      <period start="1994-09-29" end="1995-09-29"/>
+      <period start="1995-09-29" end="2000-09-27"/>
+      <period start="2000-09-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10079">
+      <period start="1995-12-13" end="1997-12-12"/>
+      <period start="1998-12-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10090">
+      <period start="1986-03-14" end="1999-05-07"/>
+    </emp>
+    <emp empno="10091">
+      <period start="1992-11-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10092">
+      <period start="1996-04-22" end="2001-04-21"/>
+      <period start="2001-04-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10103">
+      <period start="1998-01-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10116">
+      <period start="1994-02-27" end="1995-02-27"/>
+      <period start="1995-02-27" end="1998-02-26"/>
+    </emp>
+    <emp empno="10118">
+      <period start="1992-02-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10121">
+      <period start="1989-05-03" end="9999-12-31"/>
+    </emp>
+    <emp empno="10122">
+      <period start="1998-08-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10127">
+      <period start="1991-05-17" end="2002-05-14"/>
+    </emp>
+    <emp empno="10129">
+      <period start="1996-01-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10134">
+      <period start="1987-12-12" end="1992-12-10"/>
+      <period start="1992-12-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10139">
+      <period start="1998-03-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10142">
+      <period start="1993-10-28" end="1995-10-28"/>
+      <period start="1995-10-28" end="2001-10-26"/>
+    </emp>
+    <emp empno="10143">
+      <period start="1988-09-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10145">
+      <period start="1999-11-03" end="2001-11-02"/>
+    </emp>
+    <emp empno="10150">
+      <period start="1986-11-16" end="1991-11-15"/>
+      <period start="1991-11-15" end="1997-11-13"/>
+      <period start="1997-11-13" end="9999-12-31"/>
+    </emp>
+    <emp empno="10153">
+      <period start="2000-01-08" end="9999-12-31"/>
+    </emp>
+    <emp empno="10157">
+      <period start="1997-12-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10166">
+      <period start="1996-09-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10169">
+      <period start="1998-06-28" end="2000-06-27"/>
+      <period start="2000-06-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10172">
+      <period start="1998-02-04" end="2000-02-04"/>
+      <period start="2001-02-03" end="9999-12-31"/>
+    </emp>
+    <emp empno="10179">
+      <period start="2000-01-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10181">
+      <period start="1988-06-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10182">
+      <period start="1990-09-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10189">
+      <period start="1992-09-13" end="1993-06-29"/>
+    </emp>
+    <emp empno="10191">
+      <period start="1986-04-10" end="1988-04-09"/>
+      <period start="1988-04-09" end="2000-04-06"/>
+      <period start="2001-04-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10193">
+      <period start="1996-09-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10197">
+      <period start="1994-06-28" end="1997-06-27"/>
+      <period start="1997-06-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10198">
+      <period start="1985-08-31" end="1996-08-28"/>
+      <period start="1996-08-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10201">
+      <period start="1992-11-10" end="1996-11-09"/>
+      <period start="1996-11-09" end="9999-12-31"/>
+    </emp>
+    <emp empno="10202">
+      <period start="1991-10-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10204">
+      <period start="1998-12-18" end="1999-03-08"/>
+    </emp>
+    <emp empno="10206">
+      <period start="1988-04-19" end="2001-04-16"/>
+      <period start="2001-04-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10207">
+      <period start="1992-10-11" end="9999-12-31"/>
+    </emp>
+    <emp empno="10211">
+      <period start="1991-11-22" end="1997-11-20"/>
+      <period start="1997-11-20" end="9999-12-31"/>
+    </emp>
+    <emp empno="10212">
+      <period start="1996-01-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10223">
+      <period start="1998-04-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10227">
+      <period start="1994-11-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10238">
+      <period start="1995-03-31" end="1997-03-30"/>
+      <period start="1998-03-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10244">
+      <period start="1999-09-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10249">
+      <period start="1991-12-08" end="2001-12-05"/>
+    </emp>
+    <emp empno="10258">
+      <period start="1985-05-17" end="1994-05-15"/>
+      <period start="1994-05-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10261">
+      <period start="1996-09-11" end="1999-02-23"/>
+    </emp>
+    <emp empno="10264">
+      <period start="1997-07-16" end="2002-07-15"/>
+    </emp>
+    <emp empno="10268">
+      <period start="1986-12-17" end="1990-08-17"/>
+    </emp>
+    <emp empno="10271">
+      <period start="1986-05-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10274">
+      <period start="1997-02-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10275">
+      <period start="1987-09-08" end="9999-12-31"/>
+    </emp>
+    <emp empno="10276">
+      <period start="1986-10-19" end="1993-10-17"/>
+      <period start="1996-10-16" end="2000-02-04"/>
+    </emp>
+    <emp empno="10278">
+      <period start="1993-07-02" end="1997-02-14"/>
+    </emp>
+    <emp empno="10283">
+      <period start="1988-05-25" end="1992-05-24"/>
+      <period start="1992-05-24" end="1996-05-23"/>
+      <period start="1998-05-23" end="2002-05-22"/>
+    </emp>
+    <emp empno="10289">
+      <period start="1993-03-12" end="1997-03-11"/>
+      <period start="1997-03-11" end="2002-01-31"/>
+    </emp>
+    <emp empno="10290">
+      <period start="1991-09-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10294">
+      <period start="1999-01-30" end="1999-05-04"/>
+    </emp>
+    <emp empno="10305">
+      <period start="1988-10-31" end="1992-06-02"/>
+    </emp>
+    <emp empno="10309">
+      <period start="1997-05-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10311">
+      <period start="1998-11-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10315">
+      <period start="1987-08-28" end="1995-08-26"/>
+      <period start="1995-08-26" end="2001-08-24"/>
+    </emp>
+    <emp empno="10318">
+      <period start="1987-03-23" end="1988-03-22"/>
+      <period start="1988-03-22" end="1995-03-21"/>
+      <period start="1995-03-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10322">
+      <period start="1990-01-29" end="2001-01-26"/>
+      <period start="2001-01-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10324">
+      <period start="1999-07-19" end="9999-12-31"/>
+    </emp>
+    <emp empno="10327">
+      <period start="1987-09-18" end="1991-09-17"/>
+    </emp>
+    <emp empno="10328">
+      <period start="1998-07-17" end="2001-07-16"/>
+      <period start="2001-07-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10333">
+      <period start="1993-01-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10342">
+      <period start="1987-07-25" end="1990-07-24"/>
+      <period start="1990-07-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10345">
+      <period start="1993-11-08" end="9999-12-31"/>
+    </emp>
+    <emp empno="10352">
+      <period start="1998-12-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10358">
+      <period start="1991-02-19" end="1994-02-18"/>
+      <period start="1994-02-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10359">
+      <period start="1998-07-20" end="9999-12-31"/>
+    </emp>
+    <emp empno="10366">
+      <period start="1997-08-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10373">
+      <period start="1997-04-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10379">
+      <period start="1996-07-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10386">
+      <period start="1985-08-02" end="1992-07-31"/>
+      <period start="1992-07-31" end="1994-07-31"/>
+      <period start="1994-07-31" end="1996-07-30"/>
+      <period start="1997-07-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10389">
+      <period start="1999-05-13" end="2002-05-12"/>
+    </emp>
+    <emp empno="10391">
+      <period start="1993-01-28" end="1997-01-27"/>
+      <period start="1997-01-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10394">
+      <period start="1991-03-14" end="1991-08-25"/>
+    </emp>
+    <emp empno="10395">
+      <period start="1998-08-10" end="2001-08-09"/>
+    </emp>
+    <emp empno="10396">
+      <period start="1986-01-11" end="1995-01-09"/>
+      <period start="1995-01-09" end="9999-12-31"/>
+    </emp>
+    <emp empno="10404">
+      <period start="1988-08-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10409">
+      <period start="1997-09-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10414">
+      <period start="1990-05-30" end="1994-12-02"/>
+    </emp>
+    <emp empno="10415">
+      <period start="1993-10-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10424">
+      <period start="1989-08-07" end="1990-08-07"/>
+      <period start="1990-08-07" end="9999-12-31"/>
+    </emp>
+    <emp empno="10426">
+      <period start="1985-07-06" end="1988-07-05"/>
+      <period start="1988-07-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10429">
+      <period start="1988-09-23" end="1994-09-22"/>
+      <period start="1994-09-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10435">
+      <period start="1996-06-08" end="1999-06-08"/>
+      <period start="1999-06-08" end="9999-12-31"/>
+    </emp>
+    <emp empno="10439">
+      <period start="1993-05-01" end="1996-04-30"/>
+      <period start="1996-04-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10440">
+      <period start="1997-04-04" end="2002-04-03"/>
+    </emp>
+    <emp empno="10443">
+      <period start="1989-08-01" end="1997-07-30"/>
+      <period start="2000-07-29" end="2002-07-06"/>
+    </emp>
+    <emp empno="10445">
+      <period start="1987-11-04" end="1989-11-03"/>
+      <period start="1989-11-03" end="1996-11-01"/>
+      <period start="1997-11-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10446">
+      <period start="1996-12-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10450">
+      <period start="1997-08-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10452">
+      <period start="1995-11-12" end="2000-11-10"/>
+    </emp>
+    <emp empno="10460">
+      <period start="1999-06-30" end="2001-04-15"/>
+    </emp>
+    <emp empno="10469">
+      <period start="1985-06-05" end="1986-06-05"/>
+      <period start="1986-06-05" end="2002-06-01"/>
+    </emp>
+    <emp empno="10477">
+      <period start="1997-05-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10482">
+      <period start="1996-02-26" end="2001-02-24"/>
+    </emp>
+    <emp empno="10485">
+      <period start="1996-01-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10488">
+      <period start="1994-07-09" end="9999-12-31"/>
+    </emp>
+    <emp empno="10489">
+      <period start="1989-09-10" end="1989-10-06"/>
+    </emp>
+    <emp empno="10492">
+      <period start="1988-04-29" end="1993-04-28"/>
+      <period start="1993-04-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10500">
+      <period start="1996-12-16" end="9999-12-31"/>
+    </emp>
+  </department>
+  <department deptno="d006">
+    <emp empno="10009">
+      <period start="1985-02-18" end="2002-02-14"/>
+    </emp>
+    <emp empno="10033">
+      <period start="1987-03-18" end="1991-03-17"/>
+      <period start="1991-03-17" end="1993-03-24"/>
+    </emp>
+    <emp empno="10067">
+      <period start="1987-03-04" end="1989-03-03"/>
+      <period start="1989-03-03" end="9999-12-31"/>
+    </emp>
+    <emp empno="10073">
+      <period start="1998-02-02" end="1998-02-22"/>
+    </emp>
+    <emp empno="10111">
+      <period start="1988-12-19" end="1992-12-18"/>
+      <period start="1993-12-18" end="2001-12-16"/>
+    </emp>
+    <emp empno="10138">
+      <period start="1992-03-03" end="1999-03-02"/>
+      <period start="1999-03-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10152">
+      <period start="1986-01-27" end="1987-08-03"/>
+    </emp>
+    <emp empno="10156">
+      <period start="1993-05-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10159">
+      <period start="1996-06-12" end="1998-06-12"/>
+      <period start="1999-06-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10192">
+      <period start="1988-06-13" end="9999-12-31"/>
+    </emp>
+    <emp empno="10229">
+      <period start="1996-02-20" end="2000-06-30"/>
+    </emp>
+    <emp empno="10240">
+      <period start="1998-10-06" end="2001-10-05"/>
+    </emp>
+    <emp empno="10250">
+      <period start="1992-08-30" end="1997-08-29"/>
+      <period start="1997-08-29" end="2001-08-28"/>
+    </emp>
+    <emp empno="10265">
+      <period start="1997-09-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10281">
+      <period start="1994-12-03" end="1998-12-02"/>
+      <period start="1998-12-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10316">
+      <period start="1990-12-18" end="1991-01-02"/>
+    </emp>
+    <emp empno="10343">
+      <period start="1997-10-03" end="1999-10-03"/>
+      <period start="1999-10-03" end="9999-12-31"/>
+    </emp>
+    <emp empno="10357">
+      <period start="1994-04-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10390">
+      <period start="1989-05-17" end="1991-05-17"/>
+      <period start="1991-05-17" end="1993-05-16"/>
+      <period start="1993-05-16" end="1998-05-15"/>
+      <period start="1999-05-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10401">
+      <period start="1999-10-25" end="2000-10-24"/>
+    </emp>
+    <emp empno="10402">
+      <period start="1987-01-02" end="1992-01-01"/>
+      <period start="1992-01-01" end="1993-12-31"/>
+      <period start="1993-12-31" end="1996-12-30"/>
+      <period start="1996-12-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10405">
+      <period start="1998-09-26" end="2000-12-05"/>
+    </emp>
+    <emp empno="10406">
+      <period start="1996-01-26" end="1997-01-25"/>
+      <period start="1997-01-25" end="2002-01-24"/>
+    </emp>
+    <emp empno="10433">
+      <period start="1992-11-26" end="2001-11-24"/>
+    </emp>
+    <emp empno="10437">
+      <period start="1996-04-12" end="1998-04-12"/>
+      <period start="1998-04-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10447">
+      <period start="1988-12-29" end="1990-12-29"/>
+      <period start="1990-12-29" end="2000-11-15"/>
+    </emp>
+    <emp empno="10457">
+      <period start="1999-10-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10471">
+      <period start="1990-11-18" end="1991-11-18"/>
+      <period start="1991-11-18" end="1999-11-16"/>
+      <period start="1999-11-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10483">
+      <period start="1993-11-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10486">
+      <period start="1987-10-08" end="1988-10-07"/>
+      <period start="1988-10-07" end="9999-12-31"/>
+    </emp>
+  </department>
+  <department deptno="d007">
+    <emp empno="10002">
+      <period start="1996-08-03" end="9999-12-31"/>
+    </emp>
+    <emp empno="10016">
+      <period start="1998-02-11" end="2001-02-10"/>
+      <period start="2001-02-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10034">
+      <period start="1995-04-12" end="1999-10-31"/>
+    </emp>
+    <emp empno="10041">
+      <period start="1989-11-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10053">
+      <period start="1994-11-13" end="1997-11-12"/>
+      <period start="1997-11-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10060">
+      <period start="1989-05-28" end="1993-05-27"/>
+      <period start="1993-05-27" end="1997-05-26"/>
+      <period start="1997-05-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10061">
+      <period start="1989-12-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10068">
+      <period start="1987-08-07" end="1989-08-06"/>
+      <period start="1989-08-06" end="1995-08-05"/>
+      <period start="1995-08-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10087">
+      <period start="1997-05-08" end="2001-01-09"/>
+    </emp>
+    <emp empno="10088">
+      <period start="1988-09-02" end="1991-09-02"/>
+      <period start="1991-09-02" end="1995-09-01"/>
+      <period start="1995-09-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10089">
+      <period start="1989-01-10" end="1990-01-10"/>
+      <period start="1991-01-10" end="1998-01-08"/>
+      <period start="1998-01-08" end="9999-12-31"/>
+    </emp>
+    <emp empno="10093">
+      <period start="1997-06-08" end="9999-12-31"/>
+    </emp>
+    <emp empno="10095">
+      <period start="1994-03-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10099">
+      <period start="1988-10-18" end="1995-10-17"/>
+      <period start="1995-10-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10101">
+      <period start="1998-10-14" end="2000-09-23"/>
+    </emp>
+    <emp empno="10107">
+      <period start="1999-03-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10125">
+      <period start="1990-10-26" end="1996-03-25"/>
+    </emp>
+    <emp empno="10136">
+      <period start="1988-06-13" end="1995-06-12"/>
+      <period start="1995-06-12" end="1999-09-20"/>
+    </emp>
+    <emp empno="10148">
+      <period start="1996-07-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10149">
+      <period start="1994-01-28" end="1996-08-27"/>
+    </emp>
+    <emp empno="10151">
+      <period start="1992-12-12" end="9999-12-31"/>
+    </emp>
+    <emp empno="10160">
+      <period start="1993-12-06" end="1999-12-05"/>
+      <period start="1999-12-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10178">
+      <period start="1994-03-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10185">
+      <period start="1986-03-01" end="1996-02-27"/>
+      <period start="1997-02-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10199">
+      <period start="1998-02-07" end="9999-12-31"/>
+    </emp>
+    <emp empno="10214">
+      <period start="1988-02-29" end="1998-02-26"/>
+      <period start="1999-02-26" end="2001-02-25"/>
+    </emp>
+    <emp empno="10215">
+      <period start="1991-11-23" end="1992-11-22"/>
+      <period start="1992-11-22" end="1999-11-21"/>
+      <period start="1999-11-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10226">
+      <period start="1996-01-29" end="9999-12-31"/>
+    </emp>
+    <emp empno="10228">
+      <period start="1992-12-22" end="1993-12-22"/>
+      <period start="1993-12-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10232">
+      <period start="1992-06-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10234">
+      <period start="1990-11-19" end="1999-08-06"/>
+    </emp>
+    <emp empno="10236">
+      <period start="1996-08-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10237">
+      <period start="1989-08-11" end="1992-08-10"/>
+      <period start="1992-08-10" end="2000-02-21"/>
+    </emp>
+    <emp empno="10243">
+      <period start="1986-06-07" end="1993-06-05"/>
+      <period start="1993-06-05" end="1995-06-05"/>
+      <period start="1995-06-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10248">
+      <period start="1991-08-13" end="1993-08-12"/>
+      <period start="1993-08-12" end="2000-08-10"/>
+      <period start="2000-08-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10253">
+      <period start="1985-02-21" end="1988-02-21"/>
+      <period start="1988-02-21" end="1994-02-19"/>
+    </emp>
+    <emp empno="10254">
+      <period start="1990-06-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10256">
+      <period start="1985-10-12" end="2001-10-08"/>
+    </emp>
+    <emp empno="10262">
+      <period start="1996-01-22" end="1997-01-21"/>
+      <period start="1997-01-21" end="9999-12-31"/>
+    </emp>
+    <emp empno="10270">
+      <period start="1991-09-26" end="1992-09-25"/>
+      <period start="1992-09-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10273">
+      <period start="1985-11-06" end="1989-11-05"/>
+      <period start="1989-11-05" end="1996-11-03"/>
+      <period start="1997-11-03" end="2001-11-02"/>
+    </emp>
+    <emp empno="10277">
+      <period start="1985-06-16" end="1988-06-15"/>
+      <period start="1989-06-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10291">
+      <period start="1987-03-30" end="1994-03-28"/>
+      <period start="1994-03-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10292">
+      <period start="1989-06-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10296">
+      <period start="1989-09-16" end="1996-09-14"/>
+      <period start="1996-09-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10299">
+      <period start="1990-01-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10302">
+      <period start="1986-07-22" end="1999-11-09"/>
+    </emp>
+    <emp empno="10304">
+      <period start="1992-11-16" end="1998-11-15"/>
+      <period start="1998-11-15" end="2000-11-14"/>
+    </emp>
+    <emp empno="10306">
+      <period start="1993-09-06" end="1995-09-06"/>
+      <period start="1995-09-06" end="2000-09-04"/>
+      <period start="2000-09-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10308">
+      <period start="1992-12-29" end="9999-12-31"/>
+    </emp>
+    <emp empno="10314">
+      <period start="1986-01-16" end="1994-01-14"/>
+      <period start="1994-01-14" end="2002-01-12"/>
+    </emp>
+    <emp empno="10319">
+      <period start="1994-06-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10320">
+      <period start="1988-11-03" end="2001-10-31"/>
+    </emp>
+    <emp empno="10321">
+      <period start="1995-07-24" end="1999-08-14"/>
+    </emp>
+    <emp empno="10330">
+      <period start="1993-10-08" end="1998-10-07"/>
+      <period start="1998-10-07" end="2000-10-06"/>
+    </emp>
+    <emp empno="10331">
+      <period start="1986-10-29" end="1988-10-28"/>
+      <period start="1988-10-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10335">
+      <period start="1992-04-06" end="1993-04-06"/>
+      <period start="1994-04-06" end="2000-04-04"/>
+      <period start="2000-04-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10346">
+      <period start="1992-01-17" end="1993-01-16"/>
+      <period start="1994-01-16" end="1996-04-20"/>
+    </emp>
+    <emp empno="10355">
+      <period start="1996-01-26" end="2001-01-24"/>
+      <period start="2001-01-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10361">
+      <period start="1986-10-23" end="1990-10-22"/>
+      <period start="1990-10-22" end="1993-10-21"/>
+      <period start="1993-10-21" end="1996-10-20"/>
+      <period start="1996-10-20" end="2001-10-19"/>
+    </emp>
+    <emp empno="10369">
+      <period start="1994-09-05" end="1998-09-04"/>
+      <period start="1999-09-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10370">
+      <period start="1992-04-18" end="1995-04-18"/>
+      <period start="1995-04-18" end="1997-04-17"/>
+      <period start="1997-04-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10374">
+      <period start="1993-12-08" end="1994-12-08"/>
+      <period start="1994-12-08" end="1996-03-29"/>
+    </emp>
+    <emp empno="10375">
+      <period start="1994-05-29" end="1998-05-28"/>
+      <period start="1998-05-28" end="2001-05-27"/>
+      <period start="2001-05-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10378">
+      <period start="1992-08-31" end="1999-08-30"/>
+      <period start="1999-08-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10380">
+      <period start="1985-03-19" end="1991-03-18"/>
+      <period start="1991-03-18" end="1999-03-16"/>
+      <period start="1999-03-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10388">
+      <period start="1999-05-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10398">
+      <period start="1990-10-12" end="1994-10-11"/>
+      <period start="1994-10-11" end="2000-10-09"/>
+      <period start="2000-10-09" end="9999-12-31"/>
+    </emp>
+    <emp empno="10399">
+      <period start="2000-01-26" end="2002-01-25"/>
+    </emp>
+    <emp empno="10400">
+      <period start="1993-10-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10407">
+      <period start="1999-10-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10408">
+      <period start="1998-10-07" end="2001-10-06"/>
+    </emp>
+    <emp empno="10410">
+      <period start="1993-10-16" end="1996-07-21"/>
+    </emp>
+    <emp empno="10411">
+      <period start="1989-09-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10417">
+      <period start="1999-06-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10427">
+      <period start="1994-10-03" end="1996-10-02"/>
+      <period start="1996-10-02" end="1999-10-02"/>
+      <period start="1999-10-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10431">
+      <period start="1987-10-08" end="1992-10-06"/>
+      <period start="1992-10-06" end="1997-10-05"/>
+      <period start="1997-10-05" end="2001-10-04"/>
+    </emp>
+    <emp empno="10442">
+      <period start="1992-02-12" end="1995-02-11"/>
+      <period start="1995-02-11" end="1997-02-10"/>
+      <period start="1997-02-10" end="2000-02-10"/>
+      <period start="2000-02-10" end="2001-03-13"/>
+    </emp>
+    <emp empno="10444">
+      <period start="1994-10-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10448">
+      <period start="1992-03-12" end="2001-03-10"/>
+      <period start="2001-03-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10449">
+      <period start="1987-03-28" end="1999-03-25"/>
+      <period start="1999-03-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10454">
+      <period start="1989-04-16" end="1990-04-16"/>
+      <period start="1990-04-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10455">
+      <period start="1995-02-19" end="9999-12-31"/>
+    </emp>
+    <emp empno="10458">
+      <period start="1994-07-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10461">
+      <period start="1987-08-03" end="1989-08-02"/>
+      <period start="1989-08-02" end="1999-07-31"/>
+      <period start="2000-07-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10463">
+      <period start="1994-02-17" end="9999-12-31"/>
+    </emp>
+    <emp empno="10468">
+      <period start="1991-05-28" end="1999-05-26"/>
+      <period start="1999-05-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10472">
+      <period start="1999-12-01" end="2002-01-02"/>
+    </emp>
+    <emp empno="10490">
+      <period start="1992-11-22" end="2000-11-20"/>
+      <period start="2000-11-20" end="9999-12-31"/>
+    </emp>
+    <emp empno="10493">
+      <period start="1998-10-29" end="9999-12-31"/>
+    </emp>
+  </department>
+  <department deptno="d008">
+    <emp empno="10007">
+      <period start="1989-02-10" end="1993-02-09"/>
+      <period start="1993-02-09" end="9999-12-31"/>
+    </emp>
+    <emp empno="10015">
+      <period start="1992-09-19" end="1993-08-22"/>
+    </emp>
+    <emp empno="10019">
+      <period start="1999-04-30" end="2001-04-29"/>
+      <period start="2001-04-29" end="9999-12-31"/>
+    </emp>
+    <emp empno="10046">
+      <period start="1992-06-20" end="1995-06-20"/>
+      <period start="1995-06-20" end="9999-12-31"/>
+    </emp>
+    <emp empno="10052">
+      <period start="1997-01-31" end="1998-01-31"/>
+      <period start="1998-01-31" end="9999-12-31"/>
+    </emp>
+    <emp empno="10064">
+      <period start="1985-11-20" end="1986-11-20"/>
+      <period start="1986-11-20" end="1988-11-19"/>
+      <period start="1988-11-19" end="1992-03-02"/>
+    </emp>
+    <emp empno="10082">
+      <period start="1990-01-03" end="1990-01-15"/>
+    </emp>
+    <emp empno="10094">
+      <period start="1987-04-18" end="1997-11-08"/>
+    </emp>
+    <emp empno="10097">
+      <period start="1990-09-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10104">
+      <period start="1987-04-16" end="1997-04-13"/>
+      <period start="1997-04-13" end="2002-04-12"/>
+    </emp>
+    <emp empno="10114">
+      <period start="1992-07-17" end="1995-07-17"/>
+      <period start="1995-07-17" end="1997-07-16"/>
+      <period start="1997-07-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10141">
+      <period start="1998-07-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10155">
+      <period start="1990-01-05" end="2002-01-02"/>
+    </emp>
+    <emp empno="10168">
+      <period start="1986-12-06" end="1987-12-06"/>
+      <period start="1987-12-06" end="1999-12-03"/>
+      <period start="1999-12-03" end="2001-12-02"/>
+    </emp>
+    <emp empno="10203">
+      <period start="1989-04-06" end="1991-04-05"/>
+      <period start="1992-04-04" end="1995-04-05"/>
+      <period start="1995-04-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10216">
+      <period start="1987-10-30" end="1989-10-29"/>
+      <period start="1989-10-29" end="1993-10-28"/>
+      <period start="1994-10-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10230">
+      <period start="1996-06-16" end="1998-06-16"/>
+      <period start="1998-06-16" end="9999-12-31"/>
+    </emp>
+    <emp empno="10245">
+      <period start="1994-04-21" end="1995-02-20"/>
+    </emp>
+    <emp empno="10251">
+      <period start="1992-06-25" end="1994-06-25"/>
+      <period start="1994-06-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10285">
+      <period start="1995-05-25" end="1996-05-24"/>
+      <period start="1996-05-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10287">
+      <period start="1992-12-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10298">
+      <period start="1999-04-27" end="2000-04-26"/>
+      <period start="2000-04-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10313">
+      <period start="1994-10-10" end="1995-10-10"/>
+      <period start="1995-10-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10317">
+      <period start="1999-01-24" end="9999-12-31"/>
+    </emp>
+    <emp empno="10326">
+      <period start="1998-09-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10336">
+      <period start="1996-09-27" end="1997-09-27"/>
+      <period start="1997-09-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10347">
+      <period start="1998-02-20" end="9999-12-31"/>
+    </emp>
+    <emp empno="10356">
+      <period start="1995-06-26" end="1996-06-25"/>
+      <period start="1996-06-25" end="9999-12-31"/>
+    </emp>
+    <emp empno="10365">
+      <period start="1987-10-22" end="1992-04-04"/>
+    </emp>
+    <emp empno="10419">
+      <period start="1992-04-25" end="2002-07-06"/>
+    </emp>
+    <emp empno="10420">
+      <period start="1988-01-17" end="1999-01-14"/>
+    </emp>
+    <emp empno="10423">
+      <period start="1999-05-27" end="9999-12-31"/>
+    </emp>
+    <emp empno="10476">
+      <period start="1987-09-20" end="9999-12-31"/>
+    </emp>
+  </department>
+  <department deptno="d009">
+    <emp empno="10011">
+      <period start="1990-01-22" end="1996-11-09"/>
+    </emp>
+    <emp empno="10038">
+      <period start="1989-09-20" end="1999-09-18"/>
+      <period start="1999-09-18" end="9999-12-31"/>
+    </emp>
+    <emp empno="10049">
+      <period start="1992-05-04" end="1993-05-04"/>
+      <period start="1993-05-04" end="1998-05-03"/>
+      <period start="1998-05-03" end="9999-12-31"/>
+    </emp>
+    <emp empno="10112">
+      <period start="1998-05-01" end="9999-12-31"/>
+    </emp>
+    <emp empno="10115">
+      <period start="1988-03-03" end="1992-05-24"/>
+    </emp>
+    <emp empno="10126">
+      <period start="1985-09-08" end="2000-09-04"/>
+      <period start="2000-09-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10128">
+      <period start="1988-06-06" end="1992-06-05"/>
+      <period start="1992-06-05" end="1994-06-05"/>
+      <period start="1994-06-05" end="9999-12-31"/>
+    </emp>
+    <emp empno="10137">
+      <period start="1985-02-18" end="1991-02-17"/>
+      <period start="1991-02-17" end="1993-02-16"/>
+      <period start="1993-02-16" end="2002-02-14"/>
+    </emp>
+    <emp empno="10154">
+      <period start="1996-10-23" end="1997-10-23"/>
+      <period start="1997-10-23" end="9999-12-31"/>
+    </emp>
+    <emp empno="10176">
+      <period start="1994-12-22" end="9999-12-31"/>
+    </emp>
+    <emp empno="10183">
+      <period start="1996-08-11" end="9999-12-31"/>
+    </emp>
+    <emp empno="10184">
+      <period start="1997-12-26" end="9999-12-31"/>
+    </emp>
+    <emp empno="10210">
+      <period start="1996-02-24" end="1997-02-23"/>
+      <period start="1997-02-23" end="1999-02-23"/>
+      <period start="1999-02-23" end="2002-02-22"/>
+    </emp>
+    <emp empno="10213">
+      <period start="1994-10-06" end="1995-10-06"/>
+      <period start="1995-10-06" end="9999-12-31"/>
+    </emp>
+    <emp empno="10219">
+      <period start="1993-03-31" end="1998-03-30"/>
+      <period start="1998-03-30" end="9999-12-31"/>
+    </emp>
+    <emp empno="10225">
+      <period start="1995-12-14" end="9999-12-31"/>
+    </emp>
+    <emp empno="10231">
+      <period start="1998-09-09" end="9999-12-31"/>
+    </emp>
+    <emp empno="10286">
+      <period start="1994-12-24" end="1999-01-24"/>
+    </emp>
+    <emp empno="10334">
+      <period start="1998-02-15" end="9999-12-31"/>
+    </emp>
+    <emp empno="10338">
+      <period start="1999-12-29" end="9999-12-31"/>
+    </emp>
+    <emp empno="10349">
+      <period start="1991-09-28" end="9999-12-31"/>
+    </emp>
+    <emp empno="10387">
+      <period start="1994-01-07" end="1995-01-07"/>
+      <period start="1995-01-07" end="9999-12-31"/>
+    </emp>
+    <emp empno="10421">
+      <period start="1990-04-07" end="2000-04-04"/>
+      <period start="2000-04-04" end="9999-12-31"/>
+    </emp>
+    <emp empno="10432">
+      <period start="1990-08-13" end="9999-12-31"/>
+    </emp>
+    <emp empno="10453">
+      <period start="1985-04-02" end="9999-12-31"/>
+    </emp>
+    <emp empno="10465">
+      <period start="1994-12-11" end="1999-12-10"/>
+      <period start="1999-12-10" end="9999-12-31"/>
+    </emp>
+    <emp empno="10466">
+      <period start="1997-08-22" end="2000-08-15"/>
+    </emp>
+    <emp empno="10478">
+      <period start="1992-06-09" end="1995-06-09"/>
+      <period start="1995-06-09" end="9999-12-31"/>
+    </emp>
+  </department>
+</departments>

@@ -1,0 +1,13 @@
+<salary tend="1990-09-12" tstart="1989-09-12">78228</salary>
+<salary tend="1991-09-12" tstart="1990-09-12">82621</salary>
+<salary tend="1992-09-11" tstart="1991-09-12">83735</salary>
+<salary tend="1993-09-11" tstart="1992-09-11">85572</salary>
+<salary tend="1994-09-11" tstart="1993-09-11">85076</salary>
+<salary tend="1995-09-11" tstart="1994-09-11">86050</salary>
+<salary tend="1996-09-10" tstart="1995-09-11">88448</salary>
+<salary tend="1997-09-10" tstart="1996-09-10">88063</salary>
+<salary tend="1998-09-10" tstart="1997-09-10">89724</salary>
+<salary tend="1999-09-10" tstart="1998-09-10">90392</salary>
+<salary tend="2000-09-09" tstart="1999-09-10">90531</salary>
+<salary tend="2001-09-09" tstart="2000-09-09">91453</salary>
+<salary tend="9999-12-31" tstart="2001-09-09">94692</salary>
