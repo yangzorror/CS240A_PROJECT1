@@ -1,0 +1,94 @@
+﻿<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Highcharts Example</title>
+		
+		
+		<!-- 1. Add these JavaScript inclusions in the head of your page -->
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="http://code.highcharts.com/highcharts.js"></script>
+        <script src="http://code.highcharts.com/modules/exporting.js"></script>		
+		
+		<!-- 2. Add the JavaScript to initialize the chart on document ready -->
+		<script type="text/javascript">
+
+		    $(document).ready(function () {
+
+
+		        var options = {
+		            chart: {
+		                renderTo: 'container'
+		            },
+		            title: {
+		                text: 'History of Employee Count of Each Department'
+		            },
+		            xAxis: {
+		                type: 'datetime',
+		                
+		                title: {
+		                    text: 'Date'
+		                }
+		            },
+		            yAxis: {
+		                title: {
+		                    text: 'Employee Count'
+		                }
+		            },
+		            plotOptions: {
+		                line: {
+		                    
+		                    marker: {
+		                        enabled: false
+		                    }
+		                }
+		            },
+		            credits: {
+		                enabled: false
+		            },
+		            series: []
+		        };
+
+		        // Load the data from the XML file 
+		        $.get('data1.xml', function (xml) {
+
+		            // Split the lines
+		            var $xml = $(xml);
+
+		            
+
+		            // push series
+		            $xml.find('series').each(function (i, series) {
+		                var seriesOptions = {
+		                    name: $(series).find('name').text(),
+		                    data: []
+		                };
+
+		                // push data points
+		                $(series).find('data point').each(function (i, point) {
+		                    var d = new Date($($(point).find('date')).text());
+		                    seriesOptions.data.push(
+                                [Date.UTC(d.getFullYear(), d.getMonth(), d.getDay()), parseInt($($(point).find('num')).text())]
+                            );
+		                });
+
+		                // add it to the options
+		                options.series.push(seriesOptions);
+		            });
+		            var chart = new Highcharts.Chart(options);
+		        });
+
+
+		    });
+
+
+
+
+
+		</script>
+		
+	</head>
+	<body>
+	
+    <div id="container" style="min-width: 610px; height: 500px; margin: 0 auto"></div>
+	
+
+</body></html>
